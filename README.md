@@ -1,1 +1,1 @@
-![So_Long Project Demo](./images/so_long_demo.png)
+![So_Long Project Demo](./so_long.png)
